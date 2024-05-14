@@ -40,6 +40,8 @@
 #define EXT
 #endif
 
+// extern int g_verbose;
+
 /**
  * Get Last error string
  * @return last error string

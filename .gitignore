@@ -15,3 +15,5 @@ CMakeCache.txt
 *.snap
 node_modules
 build
+bin
+target
